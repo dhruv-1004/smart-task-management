@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -62,3 +63,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # smart-task-management
 It is an smart task project which is made up using Laravel, vue.js and Inertias.js. In that admin can assign task to their respective users and only admin can configure the task, while admin can also analyze the tasks using an dashboard. On other side users can see their tasks and mark it down as complete while dragging a bar. 
 >>>>>>> 6b8b6a9bd1d28bc2b55d43b85c39d91ac427d756
+=======
+# smart-task-management
+>>>>>>> 1f92a8cc4efbfd162a8709f832f9b7562bfb4091
